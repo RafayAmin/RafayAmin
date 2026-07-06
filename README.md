@@ -24,12 +24,12 @@ Cybersecurity Master's graduate (DePaul University, June 2026) with hands-on exp
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Secure Distributed Systems Lab](#) | Defense-in-depth testbed — 3 isolated network zones, Wazuh SIEM, pfSense, Active Response achieving <60s detection latency | Wazuh, pfSense, Docker, Kali |
+| [Secure Distributed Systems Lab](https://github.com/RafayAmin/Secure-Distributed-Systems-Lab) | Defense-in-depth testbed — 3 isolated network zones, Wazuh SIEM, pfSense, Active Response achieving <60s detection latency | Wazuh, pfSense, Docker, Kali |
 | [SCADA/ICS Security Lab](https://github.com/RafayAmin/SCADA-Security-Lab) | OT security testbed with anomaly detection, IPsec VPN, and Snort IDS | Python, Docker, Snort, StrongSwan |
 | [Distributed File Engine](https://github.com/RafayAmin/distributed-file-engine) | Scalable distributed file indexing with gRPC and zero-trust mTLS | Java 21, gRPC, Protocol Buffers |
-| [API Vulnerability Dashboard](#) | Flask web app integrating Nessus API for automated scan management | Python, Flask, REST APIs |
+| [API Vulnerability Dashboard](https://github.com/RafayAmin/Vulnerability-Scanning-Dashboard) | Flask web app integrating Nessus API for automated scan management | Python, Flask, REST APIs |
 | [Social Media Platform](https://github.com/RafayAmin/social-media-clone-) | PHP social network with auth, image upload, profiles, email notifications | PHP, MySQL, HTML/CSS, JS |
-| [UAE Travel Guide](#) | 20+ page responsive travel website with Docker deployment | HTML, CSS, Docker |
+| UAE Travel Guide | 20+ page responsive travel website with Docker deployment | HTML, CSS, Docker |
 
 ### 🛠️ Tech Stack
 
